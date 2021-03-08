@@ -1,18 +1,19 @@
-# {Naam}
+# FDND huisstijl met animaties en interacties
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht FDND-huisstijl-met-animaties-en-interacties ontwerp je op basis van de huisstijl van FDND animaties en interacties.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Maak een one-page actie site op basis van een bestaande huisstijl.
+Deze leertaak hoort bij sprint 4 "The Campaign".
+Dit is een experimentele taak.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Ontwerp verschillende animaties en interacties.
+Kies uit een serie use cases geven die experimenteel vormgegeven moeten worden met elementen uit de FDND huisstijl.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
